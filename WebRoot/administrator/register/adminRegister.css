@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+	.radio
+	{
+		text-align:left;
+		float:none;
+	}
+		.error
+	{
+		text-align:left;
+		font-size:12px;
+	}
+	td
+	{
+		font-size:14px;
+	}
+	input,select
+	{
+		float:left;
+	} 
+	table
+	{
+		line-height:40px;
+		color:rgb(39, 62, 85);
+		font-family:Microsoft YaHei;
+	}
